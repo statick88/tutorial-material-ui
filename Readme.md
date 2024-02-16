@@ -21,9 +21,9 @@ git clone https://github.com/statick88/tutorial-material-ui.git
 Navega a la carpeta del tutorial que te interese:
 
 ```bash
-cd hola-mundo-con-mui
+cd tutorial-material-ui.git
 ```
-Sigue las instrucciones del README.md de cada tutorial para configurar el proyecto y ejecutar el código.
+Sigue las instrucciones del **README.md** de cada tutorial para configurar el proyecto y ejecutar el código.
 
 ## Contribuciones
 
