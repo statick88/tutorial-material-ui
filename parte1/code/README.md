@@ -82,4 +82,6 @@ export default App;
 ```
 Guarda el archivo y vuelve al navegador. Deberías ver algo así:
 
-¡Felicidades! Has creado tu primer componente de MUI. Puedes ver la documentación de MUI para explorar más componentes y opciones de personalización. Espero que este tutorial te haya sido útil y que disfrutes creando interfaces de usuario con MUI. 😊
+¡Felicidades! Has creado tu primer componente de MUI.
+
+Puedes ver la documentación de MUI para explorar más componentes y opciones de personalización. Espero que este tutorial te haya sido útil y que disfrutes creando interfaces de usuario con MUI. 😊

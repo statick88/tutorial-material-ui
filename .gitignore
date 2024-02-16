@@ -26,3 +26,4 @@ dist-ssr
 # Ignore partes
 
 parte1/code/node_modules/
+parte2/code/node_modules/
